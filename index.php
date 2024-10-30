@@ -185,11 +185,11 @@
                         </div>
                         <div class="col-lg-4 d-flex justify-content-center justify-content-lg-end wow fadeInUp" data-wow-delay="0.3s">
                             <div class="owl-carousel screenshot-carousel">
-                                <img class="img-fluid" src="img/Splah Screen.png" alt="">
-                                <img class="img-fluid" src="img/acceuilApp.jpg" alt="">
-                                <img class="img-fluid" src="img/connexionApp.jpg" alt="">
-                                <img class="img-fluid" src="img/dataApp.jpg" alt="">
-                                <img class="img-fluid" src="img/controlApp.jpg" alt="">
+                                <img class="img-fluid" src="img/homepage.jpg" alt="">
+                                <img class="img-fluid" src="img/dashboard.jpg" alt="">
+                                <img class="img-fluid" src="img/commande.jpg" alt="">
+                                <img class="img-fluid" src="img/meteo.jpg" alt="">
+                                <img class="img-fluid" src="img/sorgho.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -211,7 +211,7 @@
                         <a href="info.html" class="btn btn-primary-gradient py-sm-3 px-4 px-sm-5 rounded-pill mt-3">Savoir plus</a>
                     </div>
                     <div class="col-lg-6">
-                        <img class="img-fluid wow fadeInUp" data-wow-delay="0.5s" src="img/Capture_d_écran_2024-09-25_180031-removebg-preview.png">
+                        <img class="img-fluid wow fadeInUp" data-wow-delay="0.5s" src="img/caption.png">
                     </div>
                 </div>
             </div>
@@ -243,11 +243,12 @@
                     </div>
                     <div class="col-lg-4 d-flex justify-content-center justify-content-lg-end wow fadeInUp" data-wow-delay="0.3s">
                         <div class="owl-carousel screenshot-carousel">
-                            <img class="img-fluid" src="img/acceuilApp.jpg" alt="">
-                            <img class="img-fluid" src="img/tableauApp.jpg" alt="">
-                            <img class="img-fluid" src="img/Android Large - 29.png" alt="">
-                            <img class="img-fluid" src="img/Android Large - 24.png" alt="">
-                            <img class="img-fluid" src="img/Android Large - 54.png" alt="">
+                            <img class="img-fluid" src="img/commande.jpg" alt="">
+                            <img class="img-fluid" src="img/chatbot.jpg" alt="">
+                            <img class="img-fluid" src="img/detailaudio.jpg" alt="">
+                            <img class="img-fluid" src="img/sorgho.jpg" alt="">
+                            <img class="img-fluid" src="img/analyse.jpg" alt="">
+                            <img class="img-fluid" src="img/meteo.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -266,7 +267,7 @@
             <div class="container py-5 px-lg-5">
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6">
-                        <img class="img-fluid wow fadeInUp" data-wow-delay="0.1s" src="img/Capture_d_écran_2024-09-25_180031-removebg-preview.png"  style="object-fit: cover; width: 100%; height: 100%;">
+                        <img class="img-fluid wow fadeInUp" data-wow-delay="0.1s" src="img/caption.png"  style="object-fit: cover; width: 100%; height: 100%;">
                     </div>
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                         <h5 class="text-primary-gradient fw-medium">Téléchargez</h5>
@@ -306,7 +307,7 @@
                         <div class="col-lg-4 col-md-8">
                             <div  class="team-item position-relative rounded overflow-hidden">
                                 <div class=" overflow-hidden" >
-                                    <img class="img-fluid" src="img/mass-removebg-preview.png" alt=""  style="object-fit: cover; width: 100%; height: 100%;">
+                                    <img class="img-fluid" src="img/m1.jpg" alt=""  style="object-fit: cover; width: 100%; height: 100%;">
                                 </div>
                                 <div class="team-text bg-light text-center p-4" >
                                     <h5>Massila KONE</h5>
@@ -324,7 +325,7 @@
                         <div class="col-lg-4 col-md-6">
                             <div class="team-item position-relative rounded overflow-hidden">
                                 <div class="overflow-hidden">
-                                    <img class="img-fluid" src="img/maary3.jpg" alt=""  style="object-fit: cover; width: 100%; height: 100%;">
+                                    <img class="img-fluid" src="img/m3.jpg" alt=""  style="object-fit: cover; width: 100%; height: 100%;">
                                 </div>
                                 <div class="team-text bg-light text-center p-4">
                                     <h5>Mary TRAORE</h5>
@@ -340,7 +341,7 @@
                         <div class="col-lg-4 col-md-6">
                             <div class="team-item position-relative rounded overflow-hidden">
                                 <div class="overflow-hidden" >
-                                    <img class="img-fluid" src="img/didia.jpg" alt=""  style="object-fit: cover; width: 100%; height: 100%;">
+                                    <img class="img-fluid" src="img/K.jpg" alt=""  style="object-fit: cover; width: 100%; height: 100%;">
                                 </div>
                                 <div class="team-text bg-light text-center p-4">
                                     <h5>Kadidiatou DIALLO</h5>
@@ -361,7 +362,7 @@
                         <div class="col-lg-4 col-md-6">
                             <div class="team-item position-relative rounded overflow-hidden">
                                 <div class="overflow-hidden">
-                                    <img class="img-fluid" src="img/van3.jpg" alt=""  style="object-fit: cover; width: 100%; height: 100%;">
+                                    <img class="img-fluid" src="img/m4.jpg" alt=""  style="object-fit: cover; width: 100%; height: 100%;">
                                 </div>
                                 <div class="team-text bg-light text-center p-4">
                                     <h5>Modibo CISSE</h5>
@@ -377,7 +378,7 @@
                         <div class="col-lg-4 col-md-6">
                             <div class="team-item position-relative rounded overflow-hidden">
                                 <div class="overflow-hidden">
-                                    <img class="img-fluid" src="img/Mariam-removebg-preview.png" alt=""  style="object-fit: cover; width: 100%; height: 100%;">
+                                    <img class="img-fluid" src="img/m2.jpg" alt=""  style="object-fit: cover; width: 100%; height: 100%;">
                                 </div>
                                 <div class="team-text bg-light text-center p-4">
                                     <h5>Maraim CISSE</h5>
